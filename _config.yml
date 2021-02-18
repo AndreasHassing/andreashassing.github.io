@@ -1,8 +1,6 @@
 title: Humble Learning
-email: andreas@famhassing.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  I write about my learning path on the endless route of
-  computer science.
+  I write about my never-ending learning path.
 baseurl: ""
 url: "https://andreashassing.github.io"
 twitter_username: AndreasHassing
